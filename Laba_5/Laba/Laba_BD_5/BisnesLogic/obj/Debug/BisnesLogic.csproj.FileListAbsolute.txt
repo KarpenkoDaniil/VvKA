@@ -1,0 +1,6 @@
+G:\4 TERM\DB\Laba_5\Laba\Laba_BD_5\BisnesLogic\bin\Debug\BisnesLogic.dll
+G:\4 TERM\DB\Laba_5\Laba\Laba_BD_5\BisnesLogic\bin\Debug\BisnesLogic.pdb
+G:\4 TERM\DB\Laba_5\Laba\Laba_BD_5\BisnesLogic\obj\Debug\BisnesLogic.csproj.AssemblyReference.cache
+G:\4 TERM\DB\Laba_5\Laba\Laba_BD_5\BisnesLogic\obj\Debug\BisnesLogic.csproj.CoreCompileInputs.cache
+G:\4 TERM\DB\Laba_5\Laba\Laba_BD_5\BisnesLogic\obj\Debug\BisnesLogic.dll
+G:\4 TERM\DB\Laba_5\Laba\Laba_BD_5\BisnesLogic\obj\Debug\BisnesLogic.pdb

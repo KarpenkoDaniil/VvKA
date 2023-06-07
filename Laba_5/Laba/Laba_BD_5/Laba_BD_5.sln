@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laba_BD_5", "Laba_BD_5\Laba_BD_5.csproj", "{DAA5794A-5374-493E-92F3-5EE25C0452CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BisnesLogic", "BisnesLogic\BisnesLogic.csproj", "{4A244D49-87E0-43F3-B38D-7E0D7C4810A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAA5794A-5374-493E-92F3-5EE25C0452CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAA5794A-5374-493E-92F3-5EE25C0452CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAA5794A-5374-493E-92F3-5EE25C0452CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAA5794A-5374-493E-92F3-5EE25C0452CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A244D49-87E0-43F3-B38D-7E0D7C4810A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A244D49-87E0-43F3-B38D-7E0D7C4810A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A244D49-87E0-43F3-B38D-7E0D7C4810A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A244D49-87E0-43F3-B38D-7E0D7C4810A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FFB3613D-521B-48A3-A782-3A3CC9397270}
+	EndGlobalSection
+EndGlobal

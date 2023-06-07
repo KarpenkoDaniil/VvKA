@@ -1,0 +1,6 @@
+G:\4 TERM\DB\Laba_6\Laba_6_DB\Logic\bin\Debug\Logic.dll
+G:\4 TERM\DB\Laba_6\Laba_6_DB\Logic\bin\Debug\Logic.pdb
+G:\4 TERM\DB\Laba_6\Laba_6_DB\Logic\obj\Debug\Logic.csproj.AssemblyReference.cache
+G:\4 TERM\DB\Laba_6\Laba_6_DB\Logic\obj\Debug\Logic.csproj.CoreCompileInputs.cache
+G:\4 TERM\DB\Laba_6\Laba_6_DB\Logic\obj\Debug\Logic.dll
+G:\4 TERM\DB\Laba_6\Laba_6_DB\Logic\obj\Debug\Logic.pdb

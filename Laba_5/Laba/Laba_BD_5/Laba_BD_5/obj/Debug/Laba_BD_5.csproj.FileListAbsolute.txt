@@ -1,0 +1,11 @@
+G:\4 TERM\DB\Laba_5\Laba\Laba_BD_5\Laba_BD_5\bin\Debug\Laba_BD_5.exe.config
+G:\4 TERM\DB\Laba_5\Laba\Laba_BD_5\Laba_BD_5\bin\Debug\Laba_BD_5.exe
+G:\4 TERM\DB\Laba_5\Laba\Laba_BD_5\Laba_BD_5\bin\Debug\Laba_BD_5.pdb
+G:\4 TERM\DB\Laba_5\Laba\Laba_BD_5\Laba_BD_5\bin\Debug\BisnesLogic.dll
+G:\4 TERM\DB\Laba_5\Laba\Laba_BD_5\Laba_BD_5\bin\Debug\BisnesLogic.pdb
+G:\4 TERM\DB\Laba_5\Laba\Laba_BD_5\Laba_BD_5\obj\Debug\Laba_BD_5.csproj.AssemblyReference.cache
+G:\4 TERM\DB\Laba_5\Laba\Laba_BD_5\Laba_BD_5\obj\Debug\Laba_BD_5.csproj.SuggestedBindingRedirects.cache
+G:\4 TERM\DB\Laba_5\Laba\Laba_BD_5\Laba_BD_5\obj\Debug\Laba_BD_5.csproj.CoreCompileInputs.cache
+G:\4 TERM\DB\Laba_5\Laba\Laba_BD_5\Laba_BD_5\obj\Debug\Laba_BD_5.csproj.CopyComplete
+G:\4 TERM\DB\Laba_5\Laba\Laba_BD_5\Laba_BD_5\obj\Debug\Laba_BD_5.exe
+G:\4 TERM\DB\Laba_5\Laba\Laba_BD_5\Laba_BD_5\obj\Debug\Laba_BD_5.pdb

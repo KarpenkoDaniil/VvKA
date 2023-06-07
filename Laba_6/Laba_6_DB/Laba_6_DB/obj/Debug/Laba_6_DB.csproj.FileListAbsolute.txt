@@ -1,0 +1,14 @@
+G:\4 TERM\DB\Laba_6\Laba_6_DB\Laba_6_DB\bin\Debug\Laba_6_DB.exe.config
+G:\4 TERM\DB\Laba_6\Laba_6_DB\Laba_6_DB\bin\Debug\Laba_6_DB.exe
+G:\4 TERM\DB\Laba_6\Laba_6_DB\Laba_6_DB\bin\Debug\Laba_6_DB.pdb
+G:\4 TERM\DB\Laba_6\Laba_6_DB\Laba_6_DB\bin\Debug\Logic.dll
+G:\4 TERM\DB\Laba_6\Laba_6_DB\Laba_6_DB\bin\Debug\Logic.pdb
+G:\4 TERM\DB\Laba_6\Laba_6_DB\Laba_6_DB\obj\Debug\Laba_6_DB.csproj.AssemblyReference.cache
+G:\4 TERM\DB\Laba_6\Laba_6_DB\Laba_6_DB\obj\Debug\Laba_6_DB.csproj.SuggestedBindingRedirects.cache
+G:\4 TERM\DB\Laba_6\Laba_6_DB\Laba_6_DB\obj\Debug\Laba_6_DB.Form1.resources
+G:\4 TERM\DB\Laba_6\Laba_6_DB\Laba_6_DB\obj\Debug\Laba_6_DB.Properties.Resources.resources
+G:\4 TERM\DB\Laba_6\Laba_6_DB\Laba_6_DB\obj\Debug\Laba_6_DB.csproj.GenerateResource.cache
+G:\4 TERM\DB\Laba_6\Laba_6_DB\Laba_6_DB\obj\Debug\Laba_6_DB.csproj.CoreCompileInputs.cache
+G:\4 TERM\DB\Laba_6\Laba_6_DB\Laba_6_DB\obj\Debug\Laba_6_DB.csproj.CopyComplete
+G:\4 TERM\DB\Laba_6\Laba_6_DB\Laba_6_DB\obj\Debug\Laba_6_DB.exe
+G:\4 TERM\DB\Laba_6\Laba_6_DB\Laba_6_DB\obj\Debug\Laba_6_DB.pdb

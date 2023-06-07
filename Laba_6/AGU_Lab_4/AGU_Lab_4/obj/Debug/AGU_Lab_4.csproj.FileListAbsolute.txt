@@ -1,0 +1,15 @@
+G:\4 TERM\DB\Laba_6\AGU_Lab_4\AGU_Lab_4\bin\Debug\AGU_Lab_4.exe.config
+G:\4 TERM\DB\Laba_6\AGU_Lab_4\AGU_Lab_4\bin\Debug\AGU_Lab_4.exe
+G:\4 TERM\DB\Laba_6\AGU_Lab_4\AGU_Lab_4\bin\Debug\AGU_Lab_4.pdb
+G:\4 TERM\DB\Laba_6\AGU_Lab_4\AGU_Lab_4\obj\Debug\AGU_Lab_4.csproj.AssemblyReference.cache
+G:\4 TERM\DB\Laba_6\AGU_Lab_4\AGU_Lab_4\obj\Debug\AGU_Lab_4.csproj.SuggestedBindingRedirects.cache
+G:\4 TERM\DB\Laba_6\AGU_Lab_4\AGU_Lab_4\obj\Debug\AGU_Lab_4.Form1.resources
+G:\4 TERM\DB\Laba_6\AGU_Lab_4\AGU_Lab_4\obj\Debug\AGU_Lab_4.Properties.Resources.resources
+G:\4 TERM\DB\Laba_6\AGU_Lab_4\AGU_Lab_4\obj\Debug\AGU_Lab_4.csproj.GenerateResource.cache
+G:\4 TERM\DB\Laba_6\AGU_Lab_4\AGU_Lab_4\obj\Debug\AGU_Lab_4.csproj.CoreCompileInputs.cache
+G:\4 TERM\DB\Laba_6\AGU_Lab_4\AGU_Lab_4\obj\Debug\AGU_Lab_4.exe
+G:\4 TERM\DB\Laba_6\AGU_Lab_4\AGU_Lab_4\obj\Debug\AGU_Lab_4.pdb
+G:\4 TERM\DB\Laba_6\AGU_Lab_4\AGU_Lab_4\bin\Debug\OpenTK.dll
+G:\4 TERM\DB\Laba_6\AGU_Lab_4\AGU_Lab_4\bin\Debug\OpenTK.pdb
+G:\4 TERM\DB\Laba_6\AGU_Lab_4\AGU_Lab_4\bin\Debug\OpenTK.xml
+G:\4 TERM\DB\Laba_6\AGU_Lab_4\AGU_Lab_4\obj\Debug\AGU_Lab_4.csproj.CopyComplete
